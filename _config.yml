@@ -1,6 +1,7 @@
 title: Magdalena Rojas W
-logo: assets/images/magdalena_rojasw.jpg
+logo: "/assets/images/magdalena_rojasw.jpg?raw=true" # your photo (or logo) here
 description: Project Designer | BI Data Analyst in training | Python, SQL, Data Visualization, Tableau | UX
 show_downloads: true
 theme: jekyll-theme-minimal
-[View my Linkedin](www.linkedin.com/in/magdalena-rojas-w)
+<br><br>
+<a href="https://www.linkedin.com/in/magdalena-rojas-w/">View My LinkedIn</a> 
