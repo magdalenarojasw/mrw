@@ -12,5 +12,7 @@ Project Design, Pontificia Universidad Catolica de Chile
 * Freelance Designer
 
 ### Projects
-* Google Data Analytics Certificate Capstone Project on Kaggle, R Programming: [Unlocking Bike-Share Success: Strategic Guide](https://www.kaggle.com/code/mjrwww/unlocking-bike-share-success-strategic-guide)
+* Google Data Analytics Certificate Capstone Project on Kaggle, R Programming:
+  <br><br>
+  [Unlocking Bike-Share Success: Strategic Guide](https://www.kaggle.com/code/mjrwww/unlocking-bike-share-success-strategic-guide)
   
