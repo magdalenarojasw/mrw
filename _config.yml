@@ -1,6 +1,9 @@
 title: Magdalena RojasW
 logo: "/assets/images/magdalena_rojasw.jpg?raw=true" # your photo (or logo) here
-description: Project Designer | BI Data Analyst in training | Python, SQL, Data Visualization, Tableau | UX
+description: 
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Project Designer | BI Data Analyst in training | Python, SQL, Data Visualization, Tableau | UX 
+  <br><br>
 theme: jekyll-theme-minimal
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <a href="https://www.linkedin.com/in/magdalena-rojas-w/">View My LinkedIn</a> 
