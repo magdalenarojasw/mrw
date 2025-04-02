@@ -1,6 +1,6 @@
-## magdalenarotw.github.io
+## magdalenarotw.github
 
-#### Education
+### Education
 * Project Design, Pontificia Universidad Catolica de Chile
 * Business Statistics and Analysis Specialization, Rice University
 * Google Data Analytics Professional Certificate
@@ -10,9 +10,9 @@ Analysis of usage between customers for a bike-share company based on the six-st
 <br>
 R Programming | Jupyter Notebook
 <br><br>
-<img src="/assets/images/bikeshare1.png?raw=true"/>
-<img src="/assets/images/bikeshare2.png?raw=true"/>
-<img src="/assets/images/bikeshare3.png?raw=true"/>
+![r1](./assets/images/bikeshare1.png)
+![r2](./assets/images/bikeshare2.png)
+![r3](./assets/images/bikeshare3.png)
 <br>
 [View Code and more details on Kaggle](https://www.kaggle.com/code/mjrwww/unlocking-bike-share-success-strategic-guide)
   
