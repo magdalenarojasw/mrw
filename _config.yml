@@ -1,10 +1,11 @@
 title: Magdalena RojasW
 logo: "/assets/images/magdalena_rojasw.jpg?raw=true" # your photo (or logo) here 
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  Project Designer | BI Data Analyst in training | Python, SQL, Data Visualization, Tableau | UX 
-  <br><br>
-theme: jekyll-theme-minimal
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  <a href="https://www.linkedin.com/in/magdalena-rojas-w/">View My LinkedIn</a> 
+description: >- # your text below (remove <br> elements if you don't need line breaks)
+  Project Designer | BI Data Analyst in training | Python, SQL, Data Visualization, Tableau | UX
   
-
+  Project Design, Pontificia Universidad Catolica de Chile
+  Business Statistics and Analysis Specialization, Rice University
+  Google Data Analytics Professional Certificate
+  
+  [View My LinkedIn](https://www.linkedin.com/in/magdalena-rojas-w/)
+theme: jekyll-theme-minimal
