@@ -11,3 +11,5 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.linkedin.com/in/magdalena-rojas-w/">View My LinkedIn Profile</a> 
 theme: jekyll-theme-minimal
+sass:
+  style: /assets/css/style.scss
