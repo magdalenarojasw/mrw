@@ -1,7 +1,7 @@
 # Magdalena RojasW - Portfolio
 
 ## About Me
-Project Designer transitioning into Data Science with expertise in Python, SQL, BI tools, UX & Marketing Operations. I combine analytical thinking with design sensibility to solve complex business problems.
+A designer who loves diverse challenges. By applying design thinking principles and maintaining a strong commitment to data integrity, I am developing the skills to create balanced solutions that are both innovative and effective. I continuously explore and embrace new technologies to deliver truly impactful and data-informed work.
 
 ---
 
