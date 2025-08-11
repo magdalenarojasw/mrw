@@ -1,4 +1,4 @@
-# Magdalena RojasW - Portfolio
+
 
 ## About Me
 A designer who loves diverse challenges. By applying design thinking principles and maintaining a strong commitment to data integrity, I create innovative and effective solutions. I’m always learning new technologies to produce data-informed work that makes a real impact.
@@ -7,7 +7,7 @@ A designer who loves diverse challenges. By applying design thinking principles 
 
 ## Featured Project
 
-### 🚴‍♀️ Unlocking Bike-Share Success: Strategic Guide
+### Unlocking Bike-Share Success: Strategic Guide
 **Google Data Analytics Certificate Capstone Project**
 
 Analysis of usage patterns between customers for a bike-share company using the six-step data analysis framework: Ask, Prepare, Process, Analyze, Share and Act.
