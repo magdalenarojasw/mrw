@@ -54,18 +54,3 @@ I'm always interested in discussing data science, UX design, and innovative proj
 📧 Contact me for collaboration opportunities  
 💼 [LinkedIn Profile](https://www.linkedin.com/in/magdalena-rojas-w/)  
 💻 [View My GitHub Projects](https://github.com/magdalenarojasw)
-
----
-
-**Copy this entire text above** ☝️ and paste it when you're editing your file in GitHub. 
-
-## Step-by-Step Instructions:
-1. Go to https://github.com/magdalenarojasw/mrw
-2. Click on your **README.md** file
-3. Click the **pencil icon** (Edit)
-4. **Change the filename** at the top from "README.md" to "index.md"
-5. **Select all the current content** (Ctrl+A) and **delete it**
-6. **Paste the enhanced version** from above
-7. Scroll down and click **"Commit changes"**
-
-This will transform your simple project page into a comprehensive portfolio while keeping your bike-share project as the star!
