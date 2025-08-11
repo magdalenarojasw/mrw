@@ -96,4 +96,3 @@ I'm always interested in discussing data science, UX design, and innovative proj
 
 Contact me for collaboration opportunities  
 [LinkedIn Profile](https://www.linkedin.com/in/magdalena-rojas-w/)  
-[View My GitHub Projects](https://github.com/magdalenarojasw)
