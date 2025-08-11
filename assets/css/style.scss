@@ -5,3 +5,22 @@
 .page-header .page-description {
   font-size: 0.8em;
 }
+
+/* Optimized styles for square profile image */
+.wrapper img {
+  width: 100%;
+  max-width: 200px;
+  height: 200px;
+  border-radius: 8px;
+  margin-bottom: 15px;
+  object-fit: cover;
+}
+
+header {
+  padding-bottom: 15px;
+}
+
+header h1, header p {
+  margin: 5px 0;
+  line-height: 1.3;
+}
