@@ -1,26 +1,16 @@
 title: Magdalena RojasW
 logo: "/assets/images/CvMagdalenaPhoto4.jpg?raw=true"
 description: > 
-  Project Designer | Data | Python, SQL | UX & Marketing | Operations 
+  Project Designer | Data | Python, SQL | UX & Marketing | Operations
   <br><br>
   Lic. Pontificia Universidad Catolica de Chile | Business Statistics and Analysis Specialization, Rice University | Google Data Analytics Professional Certificate
   <br><br>
   <a href="https://www.linkedin.com/in/magdalena-rojas-w/">View My LinkedIn Profile</a> 
 
-# Additional contact info (optional)
-email: mjrojas4@gmail.com
-github_username: MagdalenaRojasW
+# Important: Add this baseurl since your repo is named 'mrw'
+url: "https://magdalenarojasw.github.io"
+baseurl: "/mrw"
 
-# Site settings
-url: "https://magdalenarojasw.github.io/mrw/" 
-baseurl: ""
-
-# Theme
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-- jekyll-sitemap
-- jekyll-feed
-
-# Google Analytics (optional)
-# google_analytics: UA-XXXXXXXXX-X
