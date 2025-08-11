@@ -46,15 +46,21 @@ I led a complete brand redesign and a new product strategy, transforming Bock fr
 
 **Research & Strategy:**
 Uncovering the Challenge: Use a compelling title for this section. Describe the initial brainstorming session with the CEO and what you learned. Mention the lack of clear vision, voice, and a cohesive sales strategy.
+My initial conversation with the CEO immediately revealed a brand with an undefined identity, clear vision, voice, and personality was hindering growth. It became clear that before any tactical work could begin, we needed to establish the foundational brand elements.
 
-Understanding the Audience: Instead of just listing the personas, explain what the personas taught you. "I developed personas like Anna, Paul, and Viviana to understand our target demographic—young, active, and socially conscious individuals in urban settings. This research revealed a desire for clothing that fits their lifestyle, from a morning coffee to a night out dancing."
+Understanding the Audience: I developed personas like Anna, Paul, and Viviana to understand our target demographic—young, active, and socially conscious individuals in urban settings. This research revealed a desire for clothing that fits their lifestyle, from a morning coffee to a night out dancing.
 
-Defining the Competitive Edge: Explain how your market and competitive analysis led to your unique positioning. "My analysis of the fashion market in Berlin revealed a gap. I saw an opportunity for Bock to become an active-ravewear brand. This unique positioning, combined with a strong social responsibility component (donating profits to support the cultural scene), became our key competitive advantage."
+From Chaos to Concept: Based on the user and market research, I led a brainstorming session to translate these insights into a tangible brand concept. The goal was to build a framework that not only addressed the current problems but also provided a clear, actionable roadmap for the future.
+
+Defining the Competitive Edge: My analysis of the fashion market in Berlin revealed a gap. I saw an opportunity for Bock to become an active-ravewear brand. This unique positioning, combined with a strong social responsibility component (donating profits to support the cultural scene), became our key competitive advantage.
 
 **Design & Implementation**
-The Brand Brief: Explain how you translated your research into a tangible guide. "I developed a comprehensive Brand Brief that defined the new brand's voice, mission, vision, and culture. This document served as the North Star for all design and marketing decisions."
+The Brand Brief: I developed a comprehensive Brand Brief that defined the new brand's voice, mission, vision, and culture. This document served as the North Star for all design and marketing decisions.
 
-Revitalizing the Online Platform: Describe the redesign process. Mention how you focused on enhancing the user experience, functionality, and brand consistency to better communicate the new identity.
+Revitalizing the Online Platform: I redesigned the website focused on enhancing the user experience, functionality, and brand consistency to better communicate the new identity.
+
+![UX_bock_design 1](./assets/images/UX_bock_design_1.png)
+![UX_bock_design 2](./assets/images/UX_bock_design_2.png)
 
 **Project Impact & Results**
 Quantifiable Success: This is the most important section. Use strong, action-oriented language to highlight your results:
