@@ -6,28 +6,29 @@
   font-size: 0.8em;
 }
 
-/* Optimized styles for square profile image */
+/* Circular profile image with more spacing */
 .wrapper img {
-  width: 100%;
-  max-width: 250px;
+  width: 250px;
   height: 250px;
-  border-radius: 8px;
-  margin-bottom: 15px;
+  border-radius: 50%;
+  margin: 20px 0 25px 0;  /* Increased spacing: top, right, bottom, left */
   object-fit: cover;
+  display: block;
+  border: 3px solid #e0e0e0;
 }
 
 header {
-  padding-bottom: 15px;
+  padding: 25px 0;  /* More padding around header */
 }
 
 header h1, header p {
-  margin: 5px 0;
-  line-height: 1.3;
+  margin: 8px 0;  /* Slightly more space between text elements */
+  line-height: 1.4;
 }
 
 /* Fix footer overlap */
 footer {
-  margin-top: 30px;
+  margin-top: 40px;  /* Increased from 30px */
   padding-top: 20px;
   clear: both;
 }
