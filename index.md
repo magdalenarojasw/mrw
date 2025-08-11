@@ -15,6 +15,7 @@ A designer who loves diverse challenges. By applying design thinking principles 
 Google Data Analytics Certificate Capstone Project: Analysis of usage patterns between customers for a bike-share company using the six-step data analysis framework: Ask, Prepare, Process, Analyze, Share and Act.
 
 **Technologies:** R Programming, Jupyter Notebook
+
 ![Bike Share Analysis 1](./assets/images/bikeshare2.png)
 ![Bike Share Analysis 2](./assets/images/bikeshare1.png)
 ![Bike Share Analysis 3](./assets/images/bikeshare3.png)
@@ -44,7 +45,6 @@ I led a complete brand redesign and a new product strategy, transforming Bock fr
 
 
 **Research & Strategy:**
-
 Uncovering the Challenge: Use a compelling title for this section. Describe the initial brainstorming session with the CEO and what you learned. Mention the lack of clear vision, voice, and a cohesive sales strategy.
 
 Understanding the Audience: Instead of just listing the personas, explain what the personas taught you. "I developed personas like Anna, Paul, and Viviana to understand our target demographic—young, active, and socially conscious individuals in urban settings. This research revealed a desire for clothing that fits their lifestyle, from a morning coffee to a night out dancing."
@@ -66,7 +66,7 @@ Achieved 90% positive brand perception among the target audience in a post-launc
 Successfully communicated the new brand identity and created a unique competitive edge.
 
 
-**Skills:** UX | Marketing Strategy
+**Skills:** UX/UI, Market Research, Customer Segmentation, Marketing Strategy
 
 ---
 
