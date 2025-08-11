@@ -5,18 +5,20 @@ A designer who loves diverse challenges. By applying design thinking principles 
 
 ---
 
-## Featured Project
+## Portfolio
+
+---
 
 ### Unlocking Bike-Share Success: Strategic Guide
-**Google Data Analytics Certificate Capstone Project**
 
+**Google Data Analytics Certificate Capstone Project**
 Analysis of usage patterns between customers for a bike-share company using the six-step data analysis framework: Ask, Prepare, Process, Analyze, Share and Act.
 
 **Technologies:** R Programming | Jupyter Notebook
-
 ![Bike Share Analysis 1](./assets/images/bikeshare2.png)
 ![Bike Share Analysis 2](./assets/images/bikeshare1.png)
 ![Bike Share Analysis 3](./assets/images/bikeshare3.png)
+![Bike Share Analysis 4](./assets/images/bikeshare4.png)
 
 **Key Insights:**
 - Identified usage patterns between different customer segments
@@ -51,6 +53,6 @@ Analysis of usage patterns between customers for a bike-share company using the 
 ## Let's Connect
 I'm always interested in discussing data science, UX design, and innovative project opportunities.
 
-📧 Contact me for collaboration opportunities  
-💼 [LinkedIn Profile](https://www.linkedin.com/in/magdalena-rojas-w/)  
-💻 [View My GitHub Projects](https://github.com/magdalenarojasw)
+Contact me for collaboration opportunities  
+[LinkedIn Profile](https://www.linkedin.com/in/magdalena-rojas-w/)  
+[View My GitHub Projects](https://github.com/magdalenarojasw)
