@@ -1,6 +1,5 @@
 ---
 ---
-
 @import "{{ site.theme }}";
 
 .page-header .page-description {
@@ -19,14 +18,41 @@ img {
   object-fit: cover;
 }
 
+/* FIX: Header text overlap issues */
 header {
   padding-bottom: 15px;
+  width: 100%;
+  max-width: 100%;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
 }
 
 header h1, 
 header p {
   margin: 5px 0;
   line-height: 1.3;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  hyphens: auto;
+  max-width: 100%;
+}
+
+/* FIX: Prevent long text from overflowing */
+header h1 {
+  font-size: 1.5em; /* Reduce if still too large */
+}
+
+header p {
+  font-size: 0.9em;
+  white-space: normal;
+}
+
+/* FIX: Handle long credentials and descriptions */
+header .project-tagline,
+header .view {
+  word-break: break-word;
+  overflow-wrap: break-word;
+  line-height: 1.4;
 }
 
 /* Fix footer overlap */
@@ -39,4 +65,26 @@ footer {
 footer p {
   font-size: 0.8em;
   line-height: 1.4;
+}
+
+/* FIX: Mobile responsiveness */
+@media screen and (max-width: 768px) {
+  header {
+    padding: 10px;
+    text-align: center;
+  }
+  
+  header h1 {
+    font-size: 1.3em;
+  }
+  
+  header p {
+    font-size: 0.8em;
+  }
+}
+
+/* FIX: Ensure wrapper doesn't cause overflow */
+.wrapper {
+  max-width: 100%;
+  overflow-x: hidden;
 }
