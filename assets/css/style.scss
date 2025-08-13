@@ -1,5 +1,4 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
 ---
 
 @import "{{ site.theme }}";
@@ -9,33 +8,35 @@
 }
 
 /* Optimized styles for square profile image */
-.wrapper img {
-  width: 100%;
-  max-width: 220px;
-  height: 220px;
-  border-radius: 8px;
-  margin-top: 50px; /* Added whitespace above the image */
-  margin-bottom: 50px; /* Increased whitespace below the image */
-  object-fit: cover;
+.wrapper img,
+img {
+  width: 100%;
+  max-width: 220px;
+  height: 220px;
+  border-radius: 8px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  object-fit: cover;
 }
 
 header {
-  padding-bottom: 15px;
+  padding-bottom: 15px;
 }
 
-header h1, header p {
-  margin: 5px 0;
-  line-height: 1.3;
+header h1, 
+header p {
+  margin: 5px 0;
+  line-height: 1.3;
 }
 
 /* Fix footer overlap */
 footer {
-  margin-top: 30px;
-  padding-top: 20px;
-  clear: both;
+  margin-top: 30px;
+  padding-top: 20px;
+  clear: both;
 }
 
 footer p {
-  font-size: 0.8em;
-  line-height: 1.4;
+  font-size: 0.8em;
+  line-height: 1.4;
 }
