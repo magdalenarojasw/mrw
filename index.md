@@ -49,7 +49,6 @@ My initial conversation with the CEO immediately revealed a brand with an undefi
 
 **Design & Implementation**
 - The Brand Brief: I developed a comprehensive Brand Brief that defined the new brand's voice, mission, vision, and culture. This document served as the North Star for all design and marketing decisions.
-
 - Revitalizing the Online Platform: I redesigned the website focused on enhancing the user experience, functionality, and brand consistency to better communicate the new identity.
 
 ![UX_bock_design 1](./assets/images/UX_bock_design_1.png)
@@ -57,12 +56,9 @@ My initial conversation with the CEO immediately revealed a brand with an undefi
 
 **Project Impact & Results**
 Quantifiable Success: This is the most important section. Use strong, action-oriented language to highlight your results:
-
-20% increase in sales following the re-launch.
-
-Achieved 90% positive brand perception among the target audience in a post-launch evaluation.
-
-Successfully communicated the new brand identity and created a unique competitive edge.
+- 20% increase in sales following the re-launch.
+- Achieved 90% positive brand perception among the target audience in a post-launch evaluation.
+- Successfully communicated the new brand identity and created a unique competitive edge.
 
 
 **Skills:** UX/UI, Market Research, Customer Segmentation, Marketing Strategy
