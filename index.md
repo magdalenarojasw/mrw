@@ -32,6 +32,7 @@ Google Data Analytics Certificate Capstone Project: Analysis of usage patterns b
 
 **The Problem:** 
 Bock, a small B2C fashion brand, was struggling with a lack of brand identity and low sales. They needed a complete brand revitalization to connect with their target audience and drive growth.
+
 **My Role:** 
 Product Designer, Product Strategy, User Research, Visual Design.
 
@@ -50,7 +51,6 @@ My initial conversation with the CEO immediately revealed a brand with an undefi
 **Design & Implementation**
 - The Brand Brief: I developed a comprehensive Brand Brief that defined the new brand's voice, mission, vision, and culture. This document served as the North Star for all design and marketing decisions.
 - Revitalizing the Online Platform: I redesigned the website focused on enhancing the user experience, functionality, and brand consistency to better communicate the new identity.
-
 ![UX_bock_design 1](./assets/images/UX_bock_design_1.png)
 ![UX_bock_design 2](./assets/images/UX_bock_design_2.png)
 
