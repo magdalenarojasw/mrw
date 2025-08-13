@@ -7,7 +7,6 @@ A designer who loves diverse challenges. By applying design thinking principles 
 
 ## Portfolio
 
----
 
 #### Case study: 
 ### Unlocking Bike-Share Success: Strategic Guide
