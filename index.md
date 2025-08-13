@@ -8,8 +8,7 @@ A designer who loves diverse challenges. By applying design thinking principles 
 ## Portfolio
 
 
-#### Case study: 
-### Unlocking Bike-Share Success: Strategic Guide
+#### Case study: ### Unlocking Bike-Share Success: Strategic Guide
 
 Google Data Analytics Certificate Capstone Project: Analysis of usage patterns between customers for a bike-share company using the six-step data analysis framework: Ask, Prepare, Process, Analyze, Share and Act.
 
@@ -29,8 +28,7 @@ Google Data Analytics Certificate Capstone Project: Analysis of usage patterns b
 
 ---
 
-#### Case study: 
-### Bock
+#### Case study: ### Bock
 
 **The Problem:** 
 Bock, a small B2C fashion brand, was struggling with a lack of brand identity and low sales. They needed a complete brand revitalization to connect with their target audience and drive growth.
